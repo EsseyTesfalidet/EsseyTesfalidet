@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EsseyTesfalidet
+- 👋 Hi, I’m @EsseyYohannes
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning Computer Science in Ohio State University
 - 📫 How to reach me - yohannes.31@osu.edu
